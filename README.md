@@ -31,7 +31,7 @@ To access these properties in code, access the custom data layer as normal using
 
 **Example** (GDScript):
 
-```javascript
+```gdscript
 var tile_props = example_tilemap_layer.get_cell_tile_data(coords).get_custom_data("Props") as TileProps
 #Accessing properties
 var is_walkable : bool = tile_props.Walkable
