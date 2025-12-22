@@ -19,7 +19,7 @@ Walkable : Boolean
 
 Type : TileType Enum (0: None, 1: Floor, 2: Wall)
 
-For each new or existing tilemap, create a Custom Data Layer named *Props*,* and set its type to *Object* (Important).
+For each new or existing tilemap, create a Custom Data Layer named *Props**, and set its type to *Object* (Important).
 
 <img width="430" height="135" alt="image" src="https://github.com/user-attachments/assets/286f6d83-6bf8-47e3-b407-7c93130b77ab" />
 
