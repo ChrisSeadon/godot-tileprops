@@ -111,4 +111,3 @@ func _refresh(tilemap):
 	for tile_id in known_tile_ids.keys():
 		if not current_source_tiles.has(tile_id):
 			known_tile_ids.erase(tile_id)
-	print("refreshed")
